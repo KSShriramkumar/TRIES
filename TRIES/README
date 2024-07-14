@@ -1,0 +1,22 @@
+Introduction
+------------
+
+In this lab, you will be exploring pattern searching within text
+This lab is divided into three parts - the first involves implementing
+the KMP algorithm, while the second is an implementation and simple application of tries.
+The third is an involved extension to the second part
+
+Please find both the problems in folder part1 and part2 and part3.
+
+Read
+
+- part1/kmp.cpp (submission)
+- part2/trie.h  (practice)
+- part3/trie.h  (optional)
+
+
+Only part1 is for attendance submission. Other parts are for you to
+practice and you can use your own machine to do the other parts.
+
+You must solve part2 and part3 is optional.
+
